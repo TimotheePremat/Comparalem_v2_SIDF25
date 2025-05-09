@@ -1,0 +1,55 @@
+x
+1 
+2 Call:
+3 glm(formula = Tx_cat2 ~ std_date + vers + qualite + regionDees_supp, family = gaussian, data = cat1_cat2_count)
+4 
+5 Coefficients:
+6                                              Estimate Std. Error t value Pr(>|t|)    
+7 (Intercept)                                -0.3457522  0.7234793  -0.478   0.6332    
+8 std_date                                    0.0005981  0.0005432   1.101   0.2720    
+9 versoui                                     0.3365589  0.0480564   7.003 2.65e-11 ***
+10 qualitecr1                                  0.0554745  0.0912039   0.608   0.5436    
+11 qualitecr2                                  0.0869900  0.0911333   0.955   0.3408    
+12 qualitecr3                                 -0.0003780  0.1061328  -0.004   0.9972    
+13 qualitems                                  -0.0094679  0.0776719  -0.122   0.9031    
+14 qualitems1                                 -0.0528856  0.0760933  -0.695   0.4877    
+15 qualitems1-2                                0.0765997  0.3347121   0.229   0.8192    
+16 qualitems2                                 -0.1829963  0.0908643  -2.014   0.0452 *  
+17 qualitems3                                 -0.0902544  0.1301447  -0.693   0.4887    
+18 qualitenil                                 -0.0853677  0.1354744  -0.630   0.5292    
+19 regionDees_suppAngleterre                  -0.4568748  0.1024539  -4.459 1.28e-05 ***
+20 regionDees_suppArdennes                    -0.0229429  0.1677857  -0.137   0.8914    
+21 regionDees_suppAube                        -0.0698305  0.1141274  -0.612   0.5412    
+22 regionDees_suppBourgogne                   -0.1780716  0.1837983  -0.969   0.3336    
+23 regionDees_suppCharente-Maritime            0.0311828  0.3020692   0.103   0.9179    
+24 regionDees_suppFranche-Comte                0.1502040  0.1648846   0.911   0.3633    
+25 regionDees_suppHainaut                     -0.0297604  0.1692218  -0.176   0.8606    
+26 regionDees_suppHaute-Marne                 -0.1294175  0.1025807  -1.262   0.2083    
+27 regionDees_suppIndre-et-Loire               0.4685459  0.3017637   1.553   0.1219    
+28 regionDees_suppIndre, Cher                  0.2471732  0.2943747   0.840   0.4020    
+29 regionDees_suppMarne                       -0.0600541  0.1281737  -0.469   0.6398    
+30 regionDees_suppMeuse                        0.1704884  0.1843846   0.925   0.3561    
+31 regionDees_suppMoselle, Meurthe-et-Moselle -0.2721323  0.1924842  -1.414   0.1588    
+32 regionDees_suppNievre, Allier              -0.1575130  0.1049479  -1.501   0.1347    
+33 regionDees_suppNord                        -0.2379880  0.2186871  -1.088   0.2776    
+34 regionDees_suppNormandie                    0.0768750  0.1059696   0.725   0.4689    
+35 regionDees_suppOise                         0.1390409  0.1453188   0.957   0.3397    
+36 regionDees_suppOrleanais                    0.2598186  0.2994710   0.868   0.3865    
+37 regionDees_suppRegion parisienne           -0.0957722  0.1109190  -0.863   0.3888    
+38 regionDees_suppSomme, Pas-de-Calais         0.0068805  0.0970844   0.071   0.9436    
+39 regionDees_suppVendee, Deux-Sevres          0.0619819  0.1242732   0.499   0.6184    
+40 regionDees_suppVosges                       0.2396568  0.3054450   0.785   0.4335    
+41 regionDees_suppWallonie                    -0.0100076  0.1279635  -0.078   0.9377    
+42 regionDees_suppYonne                       -0.1244669  0.1527666  -0.815   0.4160    
+43 ---
+44 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+45 
+46 (Dispersion parameter for gaussian family taken to be 0.07737969)
+47 
+48     Null deviance: 31.792  on 268  degrees of freedom
+49 Residual deviance: 18.029  on 233  degrees of freedom
+50   (4 observations deleted due to missingness)
+51 AIC: 110.36
+52 
+53 Number of Fisher Scoring iterations: 2
+54 

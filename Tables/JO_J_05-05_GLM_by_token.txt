@@ -1,0 +1,58 @@
+x
+1 
+2 Call:
+3 glm(formula = type ~ std_date + vers + qualite + regionDees_supp + category, family = binomial("logit"), data = combined_data)
+4 
+5 Coefficients:
+6                                              Estimate Std. Error z value Pr(>|z|)    
+7 (Intercept)                                -12.812286   1.556218  -8.233  < 2e-16 ***
+8 std_date                                     0.009590   0.001196   8.016 1.09e-15 ***
+9 versoui                                      1.682993   0.114637  14.681  < 2e-16 ***
+10 qualitecr1                                  -0.031855   0.227934  -0.140 0.888853    
+11 qualitecr2                                  -0.098109   0.231157  -0.424 0.671256    
+12 qualitecr3                                  -0.501674   0.255154  -1.966 0.049280 *  
+13 qualitems                                   -0.291196   0.204778  -1.422 0.155024    
+14 qualitems1                                  -0.569971   0.195951  -2.909 0.003629 ** 
+15 qualitems1-2                                 1.143347   1.221785   0.936 0.349376    
+16 qualitems2                                  -0.827843   0.269259  -3.075 0.002108 ** 
+17 qualitems3                                  -0.933850   0.260220  -3.589 0.000332 ***
+18 qualitenil                                  -0.142883   0.323987  -0.441 0.659203    
+19 regionDees_suppAngleterre                   -3.142023   0.279924 -11.225  < 2e-16 ***
+20 regionDees_suppArdennes                     -0.478951   0.342909  -1.397 0.162495    
+21 regionDees_suppAube                         -0.590198   0.233107  -2.532 0.011345 *  
+22 regionDees_suppBourgogne                    -1.273479   0.724867  -1.757 0.078944 .  
+23 regionDees_suppCharente-Maritime            -0.695191   0.725428  -0.958 0.337902    
+24 regionDees_suppFranche-Comte                -0.610273   0.375666  -1.625 0.104267    
+25 regionDees_suppHainaut                      -0.867949   0.312128  -2.781 0.005423 ** 
+26 regionDees_suppHaute-Marne                  -0.829884   0.217280  -3.819 0.000134 ***
+27 regionDees_suppIndre-et-Loire               12.733309 308.337126   0.041 0.967059    
+28 regionDees_suppIndre, Cher                  12.057185 535.411213   0.023 0.982034    
+29 regionDees_suppMarne                        -1.291236   0.274191  -4.709 2.49e-06 ***
+30 regionDees_suppMeuse                         1.037906   0.590631   1.757 0.078870 .  
+31 regionDees_suppMoselle, Meurthe-et-Moselle  -0.269864   0.518053  -0.521 0.602423    
+32 regionDees_suppNievre, Allier               -0.366552   0.232286  -1.578 0.114562    
+33 regionDees_suppNord                         -1.071659   0.484997  -2.210 0.027132 *  
+34 regionDees_suppNormandie                    -0.054317   0.236232  -0.230 0.818146    
+35 regionDees_suppOise                          0.557386   0.329294   1.693 0.090518 .  
+36 regionDees_suppOrleanais                     1.056322   0.646667   1.633 0.102366    
+37 regionDees_suppRegion parisienne            -0.809662   0.230087  -3.519 0.000433 ***
+38 regionDees_suppSomme, Pas-de-Calais         -0.159138   0.224748  -0.708 0.478902    
+39 regionDees_suppVendee, Deux-Sevres          -0.304291   0.304262  -1.000 0.317264    
+40 regionDees_suppVosges                        1.285511   0.643028   1.999 0.045592 *  
+41 regionDees_suppWallonie                     -0.268812   0.344158  -0.781 0.434761    
+42 regionDees_suppYonne                        -0.339386   0.325802  -1.042 0.297553    
+43 categoryPRE                                 -1.398915   0.322019  -4.344 1.40e-05 ***
+44 categoryPROadv                               1.499865   0.241279   6.216 5.09e-10 ***
+45 categoryVERcjg                               1.181836   0.228028   5.183 2.19e-07 ***
+46 ---
+47 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+48 
+49 (Dispersion parameter for binomial family taken to be 1)
+50 
+51     Null deviance: 5416.5  on 3922  degrees of freedom
+52 Residual deviance: 4057.2  on 3884  degrees of freedom
+53   (36 observations deleted due to missingness)
+54 AIC: 4135.2
+55 
+56 Number of Fisher Scoring iterations: 12
+57 

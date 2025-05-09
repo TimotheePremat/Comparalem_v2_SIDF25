@@ -1,0 +1,61 @@
+x
+1 
+2 Call:
+3 glm(formula = type ~ std_date + vers + qualite + lieu_manuscrit_normalise + category, family = binomial("logit"), data = combined_data)
+4 
+5 Coefficients:
+6                                         Estimate Std. Error z value Pr(>|z|)    
+7 (Intercept)                           -1.485e+01  1.622e+00  -9.158  < 2e-16 ***
+8 std_date                               1.016e-02  1.254e-03   8.101 5.45e-16 ***
+9 versoui                                1.585e+00  1.245e-01  12.731  < 2e-16 ***
+10 qualitecr1                            -1.092e-01  2.411e-01  -0.453 0.650621    
+11 qualitecr2                            -4.733e-01  2.498e-01  -1.894 0.058177 .  
+12 qualitecr3                            -4.638e-01  2.713e-01  -1.709 0.087405 .  
+13 qualitems                             -5.681e-01  2.145e-01  -2.649 0.008079 ** 
+14 qualitems1                            -6.208e-01  2.115e-01  -2.935 0.003341 ** 
+15 qualitems1-2                           2.513e+00  1.104e+00   2.276 0.022853 *  
+16 qualitems2                            -9.355e-01  2.660e-01  -3.516 0.000437 ***
+17 qualitems3                            -1.088e+00  2.915e-01  -3.734 0.000188 ***
+18 qualitenil                            -4.851e-01  3.313e-01  -1.465 0.143055    
+19 lieu_manuscrit_normaliseagn.          -3.079e+00  3.057e-01 -10.071  < 2e-16 ***
+20 lieu_manuscrit_normaliseAisne          2.484e-01  4.527e-01   0.549 0.583243    
+21 lieu_manuscrit_normaliseart.           1.111e-01  4.147e-01   0.268 0.788730    
+22 lieu_manuscrit_normaliseberr.         -6.303e-02  1.278e+00  -0.049 0.960670    
+23 lieu_manuscrit_normalisebourg.        -1.017e+00  2.610e-01  -3.895 9.82e-05 ***
+24 lieu_manuscrit_normalisechamp.        -9.639e-02  2.736e-01  -0.352 0.724583    
+25 lieu_manuscrit_normaliseest           -6.815e-01  2.951e-01  -2.310 0.020904 *  
+26 lieu_manuscrit_normaliseeure-et-Loir   1.182e+00  7.346e-01   1.609 0.107672    
+27 lieu_manuscrit_normaliseflandr.       -2.397e+00  1.065e+00  -2.249 0.024498 *  
+28 lieu_manuscrit_normalisefrc.           5.044e-04  2.541e-01   0.002 0.998416    
+29 lieu_manuscrit_normalisefrcomt.       -1.134e+00  4.299e-01  -2.637 0.008368 ** 
+30 lieu_manuscrit_normalisehain.         -8.503e-01  3.567e-01  -2.383 0.017151 *  
+31 lieu_manuscrit_normaliselieg.          1.188e-01  9.189e-01   0.129 0.897169    
+32 lieu_manuscrit_normaliselorr.         -2.896e-01  2.871e-01  -1.009 0.313168    
+33 lieu_manuscrit_normaliseMarne         -1.258e+00  6.353e-01  -1.980 0.047711 *  
+34 lieu_manuscrit_normaliseMeuse          7.622e-01  9.794e-01   0.778 0.436415    
+35 lieu_manuscrit_normalisenil           -5.525e-01  2.584e-01  -2.138 0.032536 *  
+36 lieu_manuscrit_normaliseNord          -5.758e-01  3.730e-01  -1.544 0.122705    
+37 lieu_manuscrit_normaliseNord-Est      -2.013e+00  4.585e-01  -4.390 1.13e-05 ***
+38 lieu_manuscrit_normaliseorl.           1.241e+00  4.681e-01   2.651 0.008033 ** 
+39 lieu_manuscrit_normaliseOuest          1.089e+01  1.970e+02   0.055 0.955891    
+40 lieu_manuscrit_normaliseParis         -8.110e-01  3.154e-01  -2.571 0.010135 *  
+41 lieu_manuscrit_normalisePas-de-Calais  4.917e-02  3.523e-01   0.140 0.889009    
+42 lieu_manuscrit_normalisepic.          -8.680e-03  2.486e-01  -0.035 0.972146    
+43 lieu_manuscrit_normalisepoit.          3.152e-01  4.336e-01   0.727 0.467343    
+44 lieu_manuscrit_normalisesaint.        -2.598e-01  6.628e-01  -0.392 0.695049    
+45 lieu_manuscrit_normalisetour.         -1.522e+00  4.658e-01  -3.267 0.001087 ** 
+46 lieu_manuscrit_normalisewall.          1.154e-01  5.020e-01   0.230 0.818128    
+47 categoryPROadv                         2.915e+00  2.571e-01  11.337  < 2e-16 ***
+48 categoryVERcjg                         2.614e+00  2.438e-01  10.722  < 2e-16 ***
+49 ---
+50 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+51 
+52 (Dispersion parameter for binomial family taken to be 1)
+53 
+54     Null deviance: 5210.8  on 3780  degrees of freedom
+55 Residual deviance: 3847.9  on 3739  degrees of freedom
+56   (56 observations deleted due to missingness)
+57 AIC: 3931.9
+58 
+59 Number of Fisher Scoring iterations: 10
+60 

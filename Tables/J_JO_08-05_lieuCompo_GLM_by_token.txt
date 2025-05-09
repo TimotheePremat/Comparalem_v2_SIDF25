@@ -1,0 +1,42 @@
+x
+1 
+2 Call:
+3 glm(formula = type ~ std_date + vers + qualite + lieu_compo_simplifie + category, family = binomial("logit"), data = combined_data)
+4 
+5 Coefficients:
+6                                     Estimate Std. Error z value Pr(>|z|)    
+7 (Intercept)                       -23.586674   1.472405 -16.019  < 2e-16 ***
+8 std_date                            0.014513   0.001133  12.805  < 2e-16 ***
+9 versoui                             1.600380   0.136595  11.716  < 2e-16 ***
+10 qualitecr1                          0.152827   0.263803   0.579 0.562371    
+11 qualitecr2                         -0.361331   0.269332  -1.342 0.179731    
+12 qualitecr3                         -0.018805   0.297119  -0.063 0.949534    
+13 qualitems                          -0.258503   0.235347  -1.098 0.272035    
+14 qualitems1                          0.156676   0.240505   0.651 0.514758    
+15 qualitems1-2                        3.672958   1.099807   3.340 0.000839 ***
+16 qualitems2                          0.203898   0.301369   0.677 0.498678    
+17 qualitems3                         -0.559694   0.291516  -1.920 0.054865 .  
+18 qualitenil                          0.264612   0.372190   0.711 0.477109    
+19 lieu_compo_simplifieg. est          1.768851   0.452484   3.909 9.26e-05 ***
+20 lieu_compo_simplifieg. francien     1.832497   0.366640   4.998 5.79e-07 ***
+21 lieu_compo_simplifieg. nord         3.017842   0.312302   9.663  < 2e-16 ***
+22 lieu_compo_simplifieg. nord-est     2.087910   0.312914   6.672 2.52e-11 ***
+23 lieu_compo_simplifieg. nord-ouest   2.658014   0.316302   8.403  < 2e-16 ***
+24 lieu_compo_simplifieg. ouest        2.881088   0.432588   6.660 2.74e-11 ***
+25 lieu_compo_simplifieg. sud          2.691320   0.627343   4.290 1.79e-05 ***
+26 lieu_compo_simplifieg. sud-est      3.150617   0.390609   8.066 7.27e-16 ***
+27 lieu_compo_simplifieg. sud-ouest    3.037338   0.396455   7.661 1.84e-14 ***
+28 categoryPROadv                      2.821768   0.273772  10.307  < 2e-16 ***
+29 categoryVERcjg                      2.562444   0.259635   9.869  < 2e-16 ***
+30 ---
+31 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+32 
+33 (Dispersion parameter for binomial family taken to be 1)
+34 
+35     Null deviance: 4428.0  on 3216  degrees of freedom
+36 Residual deviance: 3391.7  on 3194  degrees of freedom
+37   (620 observations deleted due to missingness)
+38 AIC: 3437.7
+39 
+40 Number of Fisher Scoring iterations: 6
+41 

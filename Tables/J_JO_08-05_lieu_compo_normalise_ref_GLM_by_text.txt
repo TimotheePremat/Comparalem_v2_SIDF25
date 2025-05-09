@@ -1,0 +1,65 @@
+x
+1 
+2 Call:
+3 glm(formula = Tx_cat2 ~ std_date + vers + qualite + lieu_compo_normalise, family = gaussian, data = cat1_cat2_count)
+4 
+5 Coefficients:
+6                                    Estimate Std. Error t value Pr(>|t|)    
+7 (Intercept)                      -1.5933257  0.7328139  -2.174 0.030955 *  
+8 std_date                          0.0014986  0.0005751   2.606 0.009916 ** 
+9 versoui                           0.3160299  0.0682175   4.633 6.79e-06 ***
+10 qualitecr1                        0.3045469  0.1169496   2.604 0.009960 ** 
+11 qualitecr2                        0.2826947  0.1125436   2.512 0.012865 *  
+12 qualitecr3                        0.1705788  0.1248273   1.367 0.173435    
+13 qualitems                         0.2422344  0.0988030   2.452 0.015147 *  
+14 qualitems1                        0.2726429  0.1051569   2.593 0.010283 *  
+15 qualitems1-2                      0.6606381  0.3113765   2.122 0.035197 *  
+16 qualitems2                        0.1521517  0.1118288   1.361 0.175302    
+17 qualitems3                        0.0551841  0.1479890   0.373 0.709655    
+18 qualitenil                        0.2857461  0.1637785   1.745 0.082696 .  
+19 lieu_compo_normaliseagn.         -0.4096308  0.0902980  -4.536 1.03e-05 ***
+20 lieu_compo_normaliseaisne         0.4430379  0.3079404   1.439 0.151921    
+21 lieu_compo_normaliseart.          0.0864079  0.1584298   0.545 0.586134    
+22 lieu_compo_normaliseaube          0.2363324  0.2989574   0.791 0.430235    
+23 lieu_compo_normalisebourg.       -0.0105324  0.1447136  -0.073 0.942059    
+24 lieu_compo_normalisecentre        0.0791461  0.3096467   0.256 0.798543    
+25 lieu_compo_normalisechamp.       -0.2170988  0.0777132  -2.794 0.005761 ** 
+26 lieu_compo_normalisechar.        -0.1820469  0.3114526  -0.585 0.559590    
+27 lieu_compo_normaliseest          -0.2635751  0.2173454  -1.213 0.226790    
+28 lieu_compo_normaliseeure-et-Loir  0.1164332  0.3046689   0.382 0.702779    
+29 lieu_compo_normaliseflandr.      -0.1153210  0.2200319  -0.524 0.600829    
+30 lieu_compo_normalisefrc.         -0.2245121  0.1292248  -1.737 0.083985 .  
+31 lieu_compo_normalisefrcomt.       0.0456885  0.2985871   0.153 0.878553    
+32 lieu_compo_normalisehain.         0.4004601  0.2275894   1.760 0.080133 .  
+33 lieu_compo_normaliselieg.        -0.0827131  0.1747736  -0.473 0.636587    
+34 lieu_compo_normaliselorr.        -0.1652389  0.1534080  -1.077 0.282829    
+35 lieu_compo_normalisemeuse        -0.0779221  0.3087374  -0.252 0.801020    
+36 lieu_compo_normalisenord         -0.0655086  0.1472779  -0.445 0.656987    
+37 lieu_compo_normalisenord-est     -0.1438907  0.3055056  -0.471 0.638201    
+38 lieu_compo_normaliseNord-Est     -0.2720958  0.3055056  -0.891 0.374279    
+39 lieu_compo_normaliseNord-ouest   -0.4607804  0.3003428  -1.534 0.126693    
+40 lieu_compo_normaliseNord-Ouest   -0.3270774  0.0945369  -3.460 0.000671 ***
+41 lieu_compo_normaliseoise          0.2980831  0.1910844   1.560 0.120480    
+42 lieu_compo_normaliseOise          0.1213802  0.3034168   0.400 0.689585    
+43 lieu_compo_normaliseorl.         -0.0978973  0.2989810  -0.327 0.743708    
+44 lieu_compo_normaliseouest         0.0380469  0.3034168   0.125 0.900347    
+45 lieu_compo_normaliseOuest        -0.0042210  0.1574362  -0.027 0.978640    
+46 lieu_compo_normalisepic.         -0.0992851  0.0727114  -1.365 0.173764    
+47 lieu_compo_normalisepoit.         0.1487140  0.1187558   1.252 0.212053    
+48 lieu_compo_normalisesaint.       -0.1045474  0.2252533  -0.464 0.643098    
+49 lieu_compo_normaliseSud-Est      -0.2505813  0.1664834  -1.505 0.133993    
+50 lieu_compo_normaliseSud-Ouest    -0.1143388  0.3048748  -0.375 0.708064    
+51 lieu_compo_normalisetour.         0.1159717  0.1815322   0.639 0.523711    
+52 lieu_compo_normalisewall.        -0.1359256  0.1479003  -0.919 0.359274    
+53 ---
+54 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+55 
+56 (Dispersion parameter for gaussian family taken to be 0.0847002)
+57 
+58     Null deviance: 27.583  on 230  degrees of freedom
+59 Residual deviance: 15.670  on 185  degrees of freedom
+60   (43 observations deleted due to missingness)
+61 AIC: 128
+62 
+63 Number of Fisher Scoring iterations: 2
+64 

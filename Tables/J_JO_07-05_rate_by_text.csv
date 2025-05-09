@@ -1,0 +1,275 @@
+id;n.cat1;n.cat2;n.tot;Tx_cat2;num_custom;regionDees;regionDees_from_codeRegional;regionDees_supp;R_code_from_codeRegional;R_code_from_regionDees;R_code_suppl_phylo;R_code_suppl_total;coefficientRegionDees;dateMoyenneDees;codeRegional;coefficientRegional;vers;qualite;dateComposition;dateManuscrit;lieuComposition;lieu_compo_normalise;lieu_compo_simplifie;lieuManuscrit;lieu_manuscrit_normalise;lieu_manuscrit_simplifie;genre;corpus_1987_test;corpus_1987;std_date
+abe;15;77;92;0.16304347826087;143;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;84 (Region parisienne);1325;54;84;non;ms3;1280;1395;frc.;frc.;g. francien;Paris;Paris;g. francien;epistolaire;abe;VRAI;1280
+ailea;2;1;3;0.666666666666667;161;Yonne;Yonne;Yonne;20;20;20;20;77 (Yonne);nil;58;77;oui;ms;1207;1288;pic.;pic.;g. nord;frc.;frc.;g. francien;poeme didactique;ailea;VRAI;1207
+aileb;1;1;2;0.5;226;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;82 (Nievre, Allier);nil;85;82;oui;ms;1207;1290;pic.;pic.;g. nord;agn.;agn.;agn.;poeme didactique;aileb;VRAI;1207
+ailed;0;1;1;0;166;Aube;Aube;Aube;21;21;21;21;83 (Aube);nil;59;83;oui;ms;1207;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;poeme didactique;ailed;VRAI;1207
+aileg;1;2;3;0.333333333333333;246;Angleterre;Angleterre;Angleterre;29;29;29;29;70 (Angleterre);nil;86;70;oui;ms;1207;1300;pic.;pic.;g. nord;agn.;agn.;agn.;poeme didactique;aileg;VRAI;1207
+aileo;1;2;3;0.333333333333333;107;Nord;Nord;Nord;14;14;14;14;87 (Lille et env.);1310;40;87;oui;ms;1207;1310;pic.;pic.;g. nord;Nord-Est;Nord-Est;g. nord-est;poeme didactique;aileo;VRAI;1207
+ailet;3;1;4;0.75;116;Wallonie;Wallonie;Wallonie;16;16;16;16;76 (Wallonie);nil;45;76;oui;ms;1207;1300;pic.;pic.;g. nord;wall.;wall.;g. nord-est;poeme didactique;ailet;VRAI;1207
+aiol;5;2;7;0.714285714285714;44;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;83 (Pas-de-Calais sud-est);1250;29;83;oui;ms1;1160;1275;pic.;pic.;g. nord;pic.;pic.;g. nord;chanson de geste en decasyllabes et alexandrins;aiol;VRAI;1160
+alexo;0;1;1;0;117;Wallonie;Wallonie;Wallonie;16;16;16;16;81 (Wallonie);1250;45;81;oui;ms2;1210;1210;nil;NA;NA;wall.;wall.;g. nord-est;legende en alexandrins;alexo;VRAI;1210
+alia;6;3;9;0.666666666666667;2;Vendee, Deux-Sevres;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;2;2;2;71 (Vendee);1225;4;71;oui;ms;1185;1225;pic. et occ. orient.;pic.;g. nord;poit.;poit.;g. sud-ouest;roman en vers;alia;VRAI;1185
+amad;4;3;7;0.571428571428571;96;Aisne;Aisne;Aisne;13;13;13;13;81 (Aisne);1288;37;81;oui;cr3;1210;1289;agn.;agn.;agn.;pic.;pic.;g. nord;roman d'aventures et d'amour en octosyllabes;amad;VRAI;1210
+amile;3;0;3;1;189;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;80 (Langres et env.);1275;61;80;oui;ms1;1200;1275;nil;NA;NA;lorr.;lorr.;g. nord-est;chanson de geste en laisses decasyllabiques;amile;VRAI;1200
+amo;15;7;22;0.681818181818182;108;Nord;Nord;Nord;14;14;14;14;78 (Lille et env.);1300;40;78;oui;ms;1250;1300;flandr.;flandr.;g. nord;pic. ?;NA;NA;poeme didactique;amo;VRAI;1250
+amou;25;10;35;0.714285714285714;91;Oise;Oise;Oise;12;12;12;12;89 (Oise);1300;32;89;oui;cr;1250;1300;franc.;frc.;g. francien;Nord;Nord;g. nord;bestaire rime;amou;VRAI;1250
+anth;8;17;25;0.32;190;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;79 (Langres et env.);nil;61;79;non;ms1;1208;1275;wall.;wall.;g. nord-est;pic.;pic.;g. nord;vie de saint en quatrains d'alexandrins monorimes;anth;VRAI;1208
+anti;6;1;7;0.857142857142857;29;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;1275;61;61;oui;cr;1236;1288;norm.;norm.;g. nord-ouest;agn.;agn.;agn.;poeme allegorique traitant de l'Antechrist;#N/A;FAUX;1236
+artch;2;0;2;1;135;Marne;Marne;Marne;18;18;18;18;82 (Marne ouest);1340;52;82;non;cr2;1288;1340;frc.;frc.;g. francien;pic.;pic.;g. nord;traduction française en prose du De re militari de Vï¿_gï¿_ce;artch;VRAI;1288
+athi;16;5;21;0.761904761904762;97;Aisne;Aisne;Aisne;13;13;13;13;74 (Aisne);nil;37;74;oui;cr2;1200;1350;pic.;pic.;g. nord;frc.;frc.;g. francien;histoire de deux amis en octosyllabes;athi;VRAI;1200
+atre;11;1;12;0.916666666666667;60;nil;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;NA;11;11;nil;1290;29;65;oui;cr2;1250;1290;ouest;ouest;g. ouest;pic.;pic.;g. nord;roman arthurien en octosyllabes;#N/A;FAUX;1250
+auc;21;2;23;0.91304347826087;46;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;80 (Pas-de-Calais sud-est);1290;29;80;non;ms1;1225;1290;pic.;pic.;g. nord;pic.;pic.;g. nord;chantefable en vers et en prose;auc;VRAI;1225
+aucchants;2;1;3;0.666666666666667;47;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;80 (Pas-de-Calais sud-est);1290;29;80;oui;ms1;1225;1290;pic.;pic.;g. nord;pic.;pic.;g. nord;chantefable en vers et en prose;#N/A;FAUX;1225
+avu;3;0;3;1;16;Normandie;Normandie;Normandie;10;10;10;10;76 (Eure);1290;24;76;oui;cr2;1250;1288;Oise;Oise;g. nord;frc.;frc.;g. francien;fabliau;avu;VRAI;1250
+aye;3;1;4;0.75;288;nil;Normandie;Normandie;10;NA;10;10;nil;1300;24;62;non;cr1;1200;1300;pic. / norm.;NA;g. nord-ouest;nil;nil;NA;chanson de geste du cycle de Nanteuil, rattachee au cycle de Charlemagne, en laisses d'alexandrins;#N/A;FAUX;1200
+baisieux;5;2;7;0.714285714285714;118;Wallonie;Wallonie;Wallonie;16;16;16;16;73 (Wallonie);1300;45;73;oui;ms;1300;1300;wall.;wall.;g. nord-est;wall.;wall.;g. nord-est;une nouvelle courtoise et deux dits à caractï¿_re moralisant et religieux;baisieux;VRAI;1300
+bar;8;4;12;0.666666666666667;48;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;95 (Somme, Pas-de-Calais);1310;26;95;oui;cr2;1210;1310;pic.;pic.;g. nord;pic.;pic.;g. nord;conte pieux;bar;VRAI;1210
+barlaam;16;48;64;0.25;191;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;86 (Langres et env.);1290;61;86;non;cr3;1217;1290;champ.;champ.;g. nord-est;est;est;g. est;legende orientale en prose;barlaam;VRAI;1217
+barril;9;4;13;0.692307692307692;227;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;85 (Nievre, Allier);1310;85;85;oui;ms;1218;1317;orl.;orl.;g. sud;orl.;orl.;g. sud;poeme;barril;VRAI;1218
+beati;7;8;15;0.466666666666667;217;Vosges;Vosges;Vosges;25;25;25;25;70 (Vosges);1150;75;70;non;ms2;1200;1200;lorr.;lorr.;g. nord-est;lorr.;lorr.;g. nord-est;texte religieux;beati;VRAI;1200
+beauv;21;0;21;1;92;Oise;Oise;Oise;12;12;12;12;81 (Oise);1250;32;81;non;ms3;1283;1250;Oise;oise;g. nord;frc.;frc.;g. francien;nil;beauv;VRAI;1283
+bel;2;3;5;0.4;111;nil;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;NA;11;11;nil;1275;29;64;oui;ms2;1200;1283;est;est;g. est;hain.;hain.;g. nord;conte en octosyllabes;#N/A;FAUX;1200
+benoit;8;2;10;0.8;7;Vendee, Deux-Sevres;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;2;2;2;70 (Vendee);1190;4;70;oui;ms1;1174;1190;poit.;poit.;g. sud-ouest;poit.;poit.;g. sud-ouest;chronique en vers octosyllabiques;benoit;VRAI;1174
+bern2;0;1;1;0;214;Moselle, Meurthe-et-Moselle;Moselle, Meurthe-et-Moselle;Moselle, Meurthe-et-Moselle;24;24;24;24;79 (Moselle, Meurthe-et-Moselle);nil;70;79;non;ms;1190;1190;lorr.;lorr.;g. nord-est;lorr.;lorr.;g. nord-est;sermons liturgiques;bern2;VRAI;1190
+besant;0;3;3;0;247;Angleterre;Angleterre;Angleterre;29;29;29;29;71 (Angleterre);1400;86;71;oui;cr;1227;1290;norm.;norm.;g. nord-ouest;agn.;agn.;agn.;poeme moralisant;besant;VRAI;1227
+best;2;10;12;0.166666666666667;248;Angleterre;Angleterre;Angleterre;29;29;29;29;73 (Angleterre);1250;86;73;oui;cr3;1211;1250;norm.;norm.;g. nord-ouest;agn.;agn.;agn.;miracle dramatise en vers;best;VRAI;1211
+bodo;3;1;4;0.75;49;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;73 (Pas-de-Calais sud-est);nil;29;73;oui;ms2;1200;nil;pic.;pic.;g. nord;nil;nil;NA;Vie de saint;bodo;VRAI;1200
+bourg;3;0;3;1;219;Franche-Comte;Franche-Comte;Franche-Comte;26;26;26;26;90 (Haute-Saone);1310;79;90;oui;ms1;1310;1310;nil;NA;NA;bourg.;bourg.;g. sud-est;1) Des poignes d'enfer: legende pieuse, 2)  Les II chevaliers : enseignement moral, 3) enseignement moral: enseignement moral;bourg;VRAI;1310
+calen;3;0;3;1;192;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;83 (Langres et env.);nil;61;83;oui;ms2;1215;1235;champ.;champ.;g. nord-est;champ.;champ.;g. nord-est;chronique;calen;VRAI;1215
+calex;21;5;26;0.807692307692308;144;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;79 (Val d'Oise);nil;55;79;oui;ms;1225;1290;pic.;pic.;g. nord;nil;nil;NA;nil;calex;VRAI;1225
+cambrai;6;3;9;0.666666666666667;130;Ardennes;Ardennes;Ardennes;17;17;17;17;75 (Ardennes sud);1262;50;75;oui;cr1;1190;1225;nord-est;nord-est;g. nord-est;pic.;pic.;g. nord;chanson de geste à laisses rimees;cambrai;VRAI;1190
+carem;2;5;7;0.285714285714286;119;Wallonie;Wallonie;Wallonie;16;16;16;16;81 (Wallonie);1225;45;81;non;ms2;1217;1225;lieg.;lieg.;g. nord-est;lieg.;lieg.;g. nord-est;neuf sermons en prose pour le Carême;carem;VRAI;1217
+carp;0;4;4;0;228;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;80 (Nievre, Allier);nil;85;80;non;ms;1208;1275;wall.;wall.;g. nord-est;pic.;pic.;g. nord;hagiographie;carp;VRAI;1208
+cass;0;12;12;0;136;Marne;Marne;Marne;18;18;18;18;77 (Marne ouest);1290;52;77;non;cr2;1275;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;roman en prose;cass;VRAI;1275
+chaitH;0;2;2;0;275;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1165;1275;agn.;agn.;agn.;agn.;agn.;agn.;lai breton;#N/A;FAUX;1165
+chastoi;12;18;30;0.4;19;nil;Normandie;Normandie;10;NA;10;10;nil;1250;23;66;oui;cr3;1210;1275;norm.;norm.;g. nord-ouest;norm.;norm.;g. nord-ouest;collection de contes moraux;#N/A;FAUX;1210
+chauvency;21;4;25;0.84;193;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;87 (Chaumont et env.);1310;63;87;oui;cr1;1285;1310;Meuse;meuse;g. nord-est;lorr.;lorr.;g. nord-est;roman de  chevalerie en vers;chauvency;VRAI;1285
+chevreS;2;0;2;1;269;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms;1165;1300;agn.;agn.;agn.;frc.;frc.;g. francien;lai;#N/A;FAUX;1165
+chret1;13;18;31;0.419354838709677;172;nil;Hainaut;Hainaut;15;NA;15;15;nil;1210;44;67;oui;ms;1180;1238;champ. merid.;champ.;g. nord-est;pic.;pic.;g. nord;roman arthurien en vers;#N/A;FAUX;1180
+chret2;25;7;32;0.78125;194;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;79 (Langres et env.);1250;61;79;oui;ms;1180;1235;champ. merid.;champ.;g. nord-est;champ.;champ.;g. nord-est;roman arthurien en vers;#N/A;FAUX;1180
+chro;4;1;5;0.8;4;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1225;1;68;oui;cr2;1174;1217;poit.;poit.;g. sud-ouest;agn.;agn.;agn.;chronique en octosyllabes;#N/A;FAUX;1174
+clari2;3;8;11;0.272727272727273;50;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;97 (Somme, Pas-de-Calais);1300;26;97;non;ms;1217;1300;pic.;pic.;g. nord;pic.;pic.;g. nord;recit de la quatriï¿_me croisade;clari2;VRAI;1217
+clef;5;3;8;0.625;21;Normandie;Normandie;Normandie;10;10;10;10;92 (Normandie);nil;22;92;oui;cr;1280;1317;norm.;norm.;g. nord-ouest;pic.;pic.;g. nord;imitation de l'Ars Amatoria d'Ovide;clef;VRAI;1280
+cleom;11;2;13;0.846153846153846;93;Oise;Oise;Oise;12;12;12;12;85 (Oise);nil;32;85;oui;cr1;1285;1290;flandr.;flandr.;g. nord-est;frc.;frc.;g. francien;roman courtois en vers;cleom;VRAI;1285
+coinci;4;0;4;1;137;Marne;Marne;Marne;18;18;18;18;79 (Marne ouest);1350;52;79;oui;ms1;1226;1310;nord;nord;g. nord;pic. merid.;pic.;g. nord;miracle;coinci;VRAI;1226
+compoit;7;4;11;0.636363636363636;51;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;86 (Pas-de-Calais sud-est);1310;29;86;oui;ms;1225;1310;pic.;pic.;g. nord;pic.;pic.;g. nord;roman en vers;compoit;VRAI;1225
+conperc;8;2;10;0.8;52;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;77 (Pas-de-Calais sud-est);1210;29;77;oui;ms1;1238;1210;pic.;pic.;g. nord;pic.;pic.;g. nord;roman en vers;conperc;VRAI;1238
+contre;33;14;47;0.702127659574468;167;Aube;Aube;Aube;21;21;21;21;87 (Aube);1310;59;87;oui;cr2;1322;1337;champ. merid.;champ.;g. nord-est;nil;nil;NA;oeuvre moralisante;contre;VRAI;1322
+contro;17;5;22;0.772727272727273;168;Aube;Aube;Aube;21;21;21;21;91 (Aube);1250;59;91;oui;cr1;1200;1225;nil;NA;NA;champ. merid.;champ.;g. nord-est;nil;contro;VRAI;1200
+cordres;5;2;7;0.714285714285714;211;Meuse;Meuse;Meuse;23;23;23;23;81 (Verdun et env.);1275;67;81;oui;ms2;1200;1262;lorr.;lorr.;g. nord-est;Meuse;Meuse;g. nord-est;chanson de geste (cycle de Guillaume d'Orange);cordres;VRAI;1200
+cou;13;2;15;0.866666666666667;110;Hainaut;Hainaut;Hainaut;15;15;15;15;85 (Tournai et env.);1275;44;85;oui;cr1;1210;1285;art.;art.;g. nord;pic.;pic.;g. nord;piece de theatre (jeu);cou;VRAI;1210
+desp;20;11;31;0.645161290322581;53;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;74 (Pas-de-Calais sud-est);1300;29;74;oui;cr2;1238;1300;pic.;pic.;g. nord;Pas-de-Calais;Pas-de-Calais;g. nord;roman d'aventures;desp;VRAI;1238
+dole;5;1;6;0.833333333333333;195;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;74 (Langres et env.);1290;61;74;oui;cr3;1209;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;roman en octosyllabes;dole;VRAI;1209
+durm;4;0;4;1;58;nil;Wallonie;Wallonie;16;NA;16;16;nil;nil;45;66;oui;cr1;1217;1290;pic.;pic.;g. nord;bourg.;bourg.;g. sud-est;roman arthurien;#N/A;FAUX;1217
+edmond;0;3;3;0;281;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms2;1255;1280;agn.;agn.;agn.;agn.;agn.;agn.;vie de saint;#N/A;FAUX;1255
+edmund;0;7;7;0;282;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms2;1195;1325;agn.;agn.;agn.;agn.;agn.;agn.;vie de saint;#N/A;FAUX;1195
+egip;4;1;5;0.8;98;Aisne;Aisne;Aisne;13;13;13;13;78 (Aisne);1283;37;78;oui;cr2;1263;1288;champ. merid.;champ.;g. nord-est;frc.;frc.;g. francien;vie de Saint;egip;VRAI;1263
+elid;1;3;4;0.25;249;Angleterre;Angleterre;Angleterre;29;29;29;29;75 (Angleterre);1250;86;75;oui;ms;1165;1275;Nord-ouest;Nord-ouest;g. nord-ouest;agn.;agn.;agn.;lais;elid;VRAI;1165
+elie;19;10;29;0.655172413793103;54;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;79 (Pas-de-Calais sud-est);nil;29;79;oui;nil;1190;1275;pic.;pic.;g. nord;pic.;pic.;g. nord;chanson de geste;elie;VRAI;1190
+eneas;0;1;1;0;196;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;73 (Langres et env.);1200;61;73;oui;cr2;1160;1200;norm.;norm.;g. nord-ouest;lorr.;lorr.;g. nord-est;roman antique;eneas;VRAI;1160
+enf;4;6;10;0.4;27;Normandie;Normandie;Normandie;10;10;10;10;85 (Normandie);1350;22;85;oui;ms;1275;1317;Ouest;Ouest;g. ouest;pic.;pic.;g. nord;poeme evangelique à couplets octosyllabiques apocryphe;enf;VRAI;1275
+epee;18;3;21;0.857142857142857;229;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;86 (Nievre, Allier);1300;85;86;oui;ms1;1200;1310;bourg.;bourg.;g. sud-est;bourg. sept.;bourg.;g. sud-est;conte en octosyllabes;epee;VRAI;1200
+equiH;0;2;2;0;270;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1165;1275;agn.;agn.;agn.;agn.;agn.;agn.;lai;#N/A;FAUX;1165
+equiS;2;2;4;0.5;254;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms;1165;1300;agn.;agn.;agn.;frc.;frc.;g. francien;lai;#N/A;FAUX;1165
+eustache;7;3;10;0.7;30;Normandie;Normandie;Normandie;10;10;10;10;75 (Normandie);1250;22;75;oui;ms2;1210;1250;norm.;norm.;g. nord-ouest;norm.;norm.;g. nord-ouest;vie de saint en octosyllabes;eustache;VRAI;1210
+evrat1;25;1;26;0.961538461538462;171;nil;Meuse;Meuse;23;NA;23;23;nil;nil;67;63;oui;ms1-2;1198;1210;champ.;champ.;g. nord-est;lorr.;lorr.;g. nord-est;poeme biblique;#N/A;FAUX;1198
+evratC2;12;1;13;0.923076923076923;170;nil;Wallonie;Wallonie;16;NA;16;16;nil;nil;45;69;oui;ms1;1198;1210;champ.;champ.;g. nord-est;lorr.;lorr.;g. nord-est;poeme biblique;#N/A;FAUX;1198
+fab4c;10;3;13;0.769230769230769;33;Normandie;Normandie;Normandie;10;10;10;10;84 (Normandie);nil;22;84;oui;ms;1200;1300;pic.;pic.;g. nord;norm.;norm.;g. nord-ouest;fabliau;fab4c;VRAI;1200
+fab4e;11;0;11;1;230;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;93 (Nievre, Allier);nil;85;93;oui;ms;1200;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;fabliau;fab4e;VRAI;1200
+fab4f;3;6;9;0.333333333333333;55;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;82 (Somme, Pas-de-Calais);nil;26;82;oui;ms;1200;1300;pic.;pic.;g. nord;nil;nil;NA;fabliau;fab4f;VRAI;1200
+faba;34;7;41;0.829268292682927;34;Normandie;Normandie;Normandie;10;10;10;10;80 (Eure);nil;24;80;oui;ms;1250;1288;pic.;pic.;g. nord;frc.;frc.;g. francien;fabliau;faba;VRAI;1250
+fabb;19;10;29;0.655172413793103;197;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;88 (Langres et env.);nil;61;88;oui;ms;1250;1310;pic.;pic.;g. nord;bourg. sept.;bourg.;g. sud-est;fabliau;fabb;VRAI;1250
+fabd;24;11;35;0.685714285714286;198;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;84 (Langres et env.);nil;61;84;oui;ms;1250;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;fabliau;fabd;VRAI;1250
+fabj;20;6;26;0.769230769230769;56;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;77 (Pas-de-Calais sud-est);nil;29;77;oui;ms;1250;1285;pic.;pic.;g. nord;pic.;pic.;g. nord;fabliau;fabj;VRAI;1250
+fablesA;0;24;24;0;276;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1250;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;fable;#N/A;FAUX;1180
+fablesB;0;17;17;0;277;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1290;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;fable;#N/A;FAUX;1180
+fablesC;14;6;20;0.7;216;nil;nil;Moselle, Meurthe-et-Moselle;NA;NA;24;24;nil;nil;nil;nil;oui;ms;1180;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;lorr.;lorr.;g. nord-est;fable;#N/A;FAUX;1180
+fablesE1;1;8;9;0.111111111111111;283;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1225;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;fable;#N/A;FAUX;1180
+fablesK;7;4;11;0.636363636363636;295;nil;nil;NA;NA;NA;NA;NA;nil;nil;nil;nil;oui;ms;1180;1310;Nord-Ouest;Nord-Ouest;g. nord-ouest;nil;nil;NA;fable;#N/A;FAUX;1180
+fablesL;4;0;4;1;287;nil;nil;NA;NA;NA;NA;NA;nil;nil;nil;nil;oui;ms;1180;1290;Nord-Ouest;Nord-Ouest;g. nord-ouest;nil;nil;NA;fable;#N/A;FAUX;1180
+fablesM;3;1;4;0.75;121;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1300;Nord-Ouest;Nord-Ouest;g. nord-ouest;wall.;wall.;g. nord-est;fable;#N/A;FAUX;1180
+fablesT;10;8;18;0.555555555555556;183;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1287;Nord-Ouest;Nord-Ouest;g. nord-ouest;champ.;champ.;g. nord-est;fable;#N/A;FAUX;1180
+fablesY;0;6;6;0;296;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1180;1225;Nord-Ouest;Nord-Ouest;g. nord-ouest;norm. et agn.;NA;NA;nil;#N/A;FAUX;1180
+fablesZ;3;4;7;0.428571428571429;289;nil;nil;NA;NA;NA;NA;NA;nil;nil;nil;nil;oui;ms;1180;1400;Nord-Ouest;Nord-Ouest;g. nord-ouest;nil;nil;NA;fable;#N/A;FAUX;1180
+faucon;3;1;4;0.75;67;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;87 (Pas-de-Calais sud-est);nil;29;87;oui;cr;1250;1295;pic.;pic.;g. nord;pic.;pic.;g. nord;poeme moral allegorique où le riche est representï¿_ par un faucon et le pauvre par un poulet;faucon;VRAI;1250
+fetrom;0;5;5;0;162;Yonne;Yonne;Yonne;20;20;20;20;81 (Yonne);nil;58;82;non;cr1;1213;1290;frc.;frc.;g. francien;bourg.;bourg.;g. sud-est;roman antique (base sur Lucain);fetrom;VRAI;1213
+feu;27;0;27;1;68;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;89 (Somme, Pas-de-Calais);1300;26;89;oui;cr3;1276;1295;art.;art.;g. nord;pic.;pic.;g. nord;jeu en octosyllabes;feu;VRAI;1276
+flo;2;1;3;0.666666666666667;231;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;74 (Nievre, Allier);1300;85;74;oui;cr1;1213;1300;pic.;pic.;g. nord;est;est;g. est;chanson d'aventure;flo;VRAI;1213
+floov;3;2;5;0.6;223;Bourgogne;Bourgogne;Bourgogne;27;27;27;27;84 (Bourgogne);1350;81;84;oui;cr2;1190;1325;Sud-Est;Sud-Est;g. sud-est;bourg.;bourg.;g. sud-est;chanson de geste;floov;VRAI;1190
+gar;7;3;10;0.7;99;Aisne;Aisne;Aisne;13;13;13;13;87 (Aisne);1275;37;87;oui;cr2;1275;1275;pic.;pic.;g. nord;pic.;pic.;g. nord;jeu en octosyllabes;gar;VRAI;1275
+gepa;4;0;4;1;35;Normandie;Normandie;Normandie;10;10;10;10;87 (Normandie);1317;22;87;oui;ms;1316;1318;norm.;norm.;g. nord-ouest;nil;nil;NA;oeuvre narrative en vers;gepa;VRAI;1316
+gerv;1;1;2;0.5;224;Bourgogne;Bourgogne;Bourgogne;27;27;27;27;90 (Cote-d'Or sud + Seine-et-Loire);1275;84;90;oui;ms1;1210;1275;bourg.;bourg.;g. sud-est;bourg.;bourg.;g. sud-est;bestiaire rime en octosyllabes, base sur les Dicta Chrysostomi;gerv;VRAI;1210
+gibv;0;4;4;0;250;Angleterre;Angleterre;Angleterre;29;29;29;29;71 (Angleterre);1250;86;71;oui;cr1;1183;1225;agn.;agn.;agn.;agn.;agn.;agn.;vie de saint en octosyllabes;gibv;VRAI;1183
+gir;8;8;16;0.5;232;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;72 (Nievre, Allier);1250;85;72;oui;cr2;1210;1270;champ. merid.;champ.;g. nord-est;bourg.;bourg.;g. sud-est;chanson de geste à laisses assonancees rattachee au cycle de Guillaume d'Orange;gir;VRAI;1210
+gorm;0;2;2;0;251;Angleterre;Angleterre;Angleterre;29;29;29;29;80 (Angleterre);1250;86;80;oui;ms2;1125;1213;frc.;frc.;g. francien;agn.;agn.;agn.;chanson de geste;gorm;VRAI;1125
+graal;5;2;7;0.714285714285714;100;Aisne;Aisne;Aisne;13;13;13;13;83 (Aisne);1290;37;83;oui;ms1;1196;1290;frcomt.;frcomt.;g. sud-est;pic.;pic.;g. nord;roman en vers octosyllabiques;graal;VRAI;1196
+greg2;1;0;1;1;255;nil;Angleterre;Angleterre;29;NA;29;29;nil;1213;86;65;oui;ms1;1215;1215;agn.;agn.;agn.;agn.;agn.;agn.;hagiographie;#N/A;FAUX;1215
+guib;0;2;2;0;233;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;75 (Nievre, Allier);1250;85;75;oui;cr3;1210;1270;frc.;frc.;g. francien;bourg.;bourg.;g. sud-est;chanson de geste du cycle de Guillaume d'Orange à laisses decasyllabiques rimees;guib;VRAI;1210
+guigH;0;3;3;0;285;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;cr;1165;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;lai;#N/A;FAUX;1165
+guigP;3;2;5;0.6;59;nil;nil;Somme, Pas-de-Calais;NA;NA;11;11;nil;nil;nil;nil;oui;nil;1165;1290;Nord-Ouest;Nord-Ouest;g. nord-ouest;pic.;pic.;g. nord;lai;#N/A;FAUX;1165
+guigS;2;3;5;0.4;146;nil;nil;Region parisienne;NA;NA;19;19;nil;nil;nil;nil;oui;nil;1165;1300;Nord-Ouest;Nord-Ouest;g. nord-ouest;frc.;frc.;g. francien;lai;#N/A;FAUX;1165
+guil;2;0;2;1;20;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;nil;5;55;oui;cr2;1223;1237;norm.;norm.;g. nord-ouest;agn.;agn.;agn.;biographie en vers;#N/A;FAUX;1223
+hard;0;2;2;0;215;Moselle, Meurthe-et-Moselle;Moselle, Meurthe-et-Moselle;Moselle, Meurthe-et-Moselle;24;24;24;24;74 (Moselle);1200;72;74;non;cr2;1190;1190;lorr.;lorr.;g. nord-est;Metz;lorr.;g. nord-est;sermons liturgiques;hard;VRAI;1190
+helc;23;8;31;0.741935483870968;145;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;79 (Val d'Oise);1290;55;79;non;cr2;1285;1290;pic.;pic.;g. nord;frc.;frc.;g. francien;episode du cycle des Sept Sages;helc;VRAI;1285
+herm;16;11;27;0.592592592592593;199;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;85 (Langres et env.);1250;61;85;oui;cr;1190;1290;pic.;pic.;g. nord;lorr.;lorr.;g. nord-est;collection d'episodes historiques tires des deux Testaments et d'apocryphes;herm;VRAI;1190
+hista;0;19;19;0;123;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;nil;61;75;non;ms1;1213;1287;Belgique;NA;g. nord-est;Nord-Est;Nord-Est;g. nord-est;Histoire ancienne interrompue au milieu de la Guerre des Gaules (57 av. J.C.);hista;VRAI;1213
+hue;12;0;12;1;36;Normandie;Normandie;Normandie;10;10;10;10;83 (Eure);nil;24;83;oui;ms;1250;1287;norm.;norm.;g. nord-ouest;frc.;frc.;g. francien;dits;hue;VRAI;1250
+hyla;0;3;3;0;69;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;85 (Somme centre + sud);nil;27;85;non;ms1;1208;1275;Belgique;NA;g. nord-est;pic.;pic.;g. nord;vie de saint;hyla;VRAI;1208
+ipo;3;42;45;0.0666666666666667;273;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;cr;1185;1250;agn.;agn.;agn.;agn.;agn.;agn.;nil;#N/A;FAUX;1185
+jaco;2;3;5;0.4;169;Aube;Aube;Aube;21;21;21;21;86 (Aube);1300;59;86;non;cr;1212;1290;Beauvais;oise;g. nord;champ.;champ.;g. nord-est;traduction;jaco;VRAI;1212
+jean;13;0;13;1;113;nil;Aube;Aube;21;NA;21;21;nil;nil;59;68;oui;cr;1225;1250;hain.;hain.;g. nord;norm.;norm.;g. nord-ouest;vie de saint en quatrains d'alexandrins;#N/A;FAUX;1225
+joinv;10;29;39;0.256410256410256;148;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;87 (Val d'Oise);1350;55;87;non;cr1;1307;1335;champ.;champ.;g. nord-est;Nord-Est;Nord-Est;g. nord-est;chronique en prose;joinv;VRAI;1307
+jongl;8;5;13;0.615384615384615;149;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;82 (Seine-et-Marne);1250;57;82;oui;ms;1243;1275;frc.;frc.;g. francien;frc.;frc.;g. francien;Passion en octosyllabes;jongl;VRAI;1243
+jouf;0;2;2;0;200;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;73 (Langres et env.);1310;61;73;oui;ms3;1250;1300;Sud-Est;Sud-Est;g. sud-est;Est;est;g. est;roman d'aventures;jouf;VRAI;1250
+juda;7;0;7;1;70;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;80 (Pas-de-Calais sud-est);1250;29;80;oui;ms1;1285;1290;pic.;pic.;g. nord;Nord;Nord;g. nord;traduction en vers;juda;VRAI;1285
+juise2;1;0;1;1;124;Wallonie;Wallonie;Wallonie;16;16;16;16;71 (Wallonie);1210;45;71;oui;cr2;1137;1210;lieg.;lieg.;g. nord-est;wall.;wall.;g. nord-est;sermon en alexandrins assonances;juise2;VRAI;1137
+kathe;1;0;1;1;220;Franche-Comte;Franche-Comte;Franche-Comte;26;26;26;26;75 (Haute-Saone);1350;79;75;oui;ms1;1250;1325;poit.;poit.;g. sud-ouest;traits frpr.;NA;NA;vie de Sainte en vers irreguliers;kathe;VRAI;1250
+lac;7;11;18;0.388888888888889;201;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;86 (Langres et env.);1237;61;86;non;cr1;1220;1237;nil;NA;NA;Est;est;g. est;nil;lac;VRAI;1220
+lanc;15;3;18;0.833333333333333;71;Somme, Pas-de-Calais;Ardennes;Somme, Pas-de-Calais;17;11;11;17;76 (Somme, Pas-de-Calais);1275;50;63;non;cr;1220;1275;nil;NA;NA;pic.;pic.;g. nord;roman breton en prose;#N/A;FAUX;1220
+lancpr;8;10;18;0.444444444444444;65;nil;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;NA;11;11;nil;1310;26;76;non;nil;1220;1316;nil;NA;NA;pic.;pic.;g. nord;nil;lancpr;VRAI;1220
+lanvalC;1;1;2;0.5;284;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms2;1165;1290;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;lai;#N/A;FAUX;1165
+lanvalH;0;2;2;0;272;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms2;1165;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;nil;#N/A;FAUX;1165
+lanvalP;1;1;2;0.5;57;nil;nil;Somme, Pas-de-Calais;NA;NA;11;11;nil;nil;nil;nil;oui;ms2;1165;1290;Nord-Ouest;Nord-Ouest;g. nord-ouest;pic.;pic.;g. nord;lai;#N/A;FAUX;1165
+lanvalS;0;2;2;0;150;nil;nil;Region parisienne;NA;NA;19;19;nil;nil;nil;nil;oui;ms2;1165;1300;Nord-Ouest;Nord-Ouest;g. nord-ouest;frc.;frc.;g. francien;lai;#N/A;FAUX;1165
+laustH;0;1;1;0;271;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;nil;1165;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;lai;#N/A;FAUX;1165
+lin;7;23;30;0.233333333333333;163;Yonne;Yonne;Yonne;20;20;20;20;90 (Yonne);1250;58;90;non;cr2;1213;1250;Sud-Est;Sud-Est;g. sud-est;bourg.;bourg.;g. sud-est;roman arthurien;lin;VRAI;1213
+livre;1;0;1;1;294;nil;nil;NA;NA;NA;NA;NA;nil;1217;17;68;oui;ms1;1176;1217;Ouest;Ouest;g. ouest;Ouest;Ouest;g. ouest;quatrains monorimes octosyllabiques;#N/A;FAUX;1176
+loys;7;2;9;0.777777777777778;37;Normandie;Normandie;Normandie;10;10;10;10;96 (Eure);1310;24;96;non;ms1;1298;1310;multiple;NA;NA;nil;nil;NA;miracles en prose;loys;VRAI;1298
+mace;3;1;4;0.75;234;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;84 (Nievre, Allier);1343;85;84;oui;cr;1300;1343;Centre;centre;g. sud;berr.;berr.;g. sud;trad. de l'Ancien Testament;mace;VRAI;1300
+malk;21;13;34;0.61764705882353;138;Marne;Marne;Marne;18;18;18;18;90 (Marne est);1300;53;90;oui;ms3;1283;1283;lorr.;lorr.;g. nord-est;lorr.;lorr.;g. nord-est;trad. tantot libre, tantot litterale de l'Ancien Testament;malk;VRAI;1283
+marga;1;0;1;1;202;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;84 (Langres et env.);1267;63;67;oui;cr3;1135;1267;norm.;norm.;g. nord-ouest;art.;art.;g. Nord;vie de saint en vers octosyllabiques;#N/A;FAUX;1135
+martin1;4;1;5;0.8;235;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;81 (Nievre, Allier);1285;85;81;oui;ms;1225;1290;tour.;tour.;g. sud-ouest;bourg.;bourg.;g. sud-est;vie de saint;martin1;VRAI;1225
+martin2;4;0;4;1;9;Vendee, Deux-Sevres;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;2;2;2;78 (Deux-Sevres);1275;5;78;oui;ms;1225;1290;tour.;tour.;g. sud-ouest;poit.;poit.;g. sud-ouest;vie de saint;martin2;VRAI;1225
+martin3;1;0;1;1;12;Indre, Cher;Indre, Cher;Indre, Cher;4;4;4;4;80 (Indre, Cher);1275;10;80;oui;ms;1225;1290;tour.;tour.;g. sud-ouest;berr.;berr.;g. sud;vie de saint;martin3;VRAI;1225
+maur;3;0;3;1;3;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1190;4;61;oui;cr3;1170;1210;poit.;poit.;g. sud-ouest;agn.;agn.;agn.;roman epique;#N/A;FAUX;1170
+merlin;9;5;14;0.642857142857143;73;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;80 (Pas-de-Calais sud-est);1290;29;80;non;cr1;1213;1310;Sud-Est;Sud-Est;g. sud-est;pic.;pic.;g. nord;roman arthurien;merlin;VRAI;1213
+merm;4;2;6;0.666666666666667;139;Marne;Marne;Marne;18;18;18;18;86 (Marne ouest);1250;52;86;non;cr3;1200;1290;pic.;pic.;g. nord;Marne;Marne;g. nord-est;bestiaire en prose;merm;VRAI;1200
+meun;15;1;16;0.9375;152;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;89 (Seine-et-Marne);1290;57;89;oui;cr2;1230;1285;traits orl.;NA;NA;orl.;orl.;g. sud;poeme allegorique sur l'art d'aimer en couplets octosyllabiques;meun;VRAI;1230
+michel;1;0;1;1;25;nil;Normandie;Normandie;10;NA;10;10;nil;nil;23;58;oui;ms;1163;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;norm.;norm.;g. nord-ouest;chronique rimee;#N/A;FAUX;1163
+milonS;4;0;4;1;151;nil;nil;Region parisienne;NA;NA;19;19;nil;nil;nil;nil;oui;cr1;1165;1300;Nord-Ouest;Nord-Ouest;g. nord-ouest;frc.;frc.;g. francien;nil;#N/A;FAUX;1165
+milunH;0;3;3;0;268;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1165;1275;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;nil;#N/A;FAUX;1165
+mir;4;0;4;1;101;Aisne;Aisne;Aisne;13;13;13;13;83 (Aisne);1310;37;83;oui;cr;1224;1310;Soissonnais;aisne;g. nord;pic. merid.;pic.;g. nord;miracles en vers;mir;VRAI;1224
+miro;7;7;14;0.5;74;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;84 (Pas-de-Calais sud-est);1250;29;84;oui;ms1;1266;1277;pic.;pic.;g. nord;art.;art.;g. Nord;poeme imite de la moralite wallone des sept peches mortels.;miro;VRAI;1266
+modw;0;1;1;0;252;Angleterre;Angleterre;Angleterre;29;29;29;29;78 (Angleterre);1250;86;78;oui;cr;1230;1250;agn.;agn.;agn.;agn.;agn.;agn.;vie de saint;modw;VRAI;1230
+moral;11;3;14;0.785714285714286;125;Wallonie;Wallonie;Wallonie;16;16;16;16;82 (Wallonie);1210;45;82;oui;cr1;1200;1210;wall.;wall.;g. nord-est;wall.;wall.;g. nord-est;traite de vie chretienne;moral;VRAI;1200
+moral2;3;0;3;1;126;Wallonie;Wallonie;Wallonie;16;16;16;16;91 (Wallonie);nil;45;91;oui;cr1;1200;1311;wall.;wall.;g. nord-est;wall.;wall.;g. nord-est;traite de vie chretienne;moral2;VRAI;1200
+mortartu;11;13;24;0.458333333333333;153;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;82 (Seine-et-Marne);1250;57;82;non;cr;1213;1290;nil;NA;NA;frc.;frc.;g. francien;chanson de geste de la matiere de Bretagne;mortartu;VRAI;1213
+mous;5;0;5;1;114;Hainaut;Hainaut;Hainaut;15;15;15;15;82 (Tournai et env.);1250;44;82;oui;ms3;1243;1275;hain.;hain.;g. nord;hain.;hain.;g. nord;chronique des rois de France, de la guerre de Troie à Saint Louis, en octosyllabes;mous;VRAI;1243
+mrgri;1;2;3;0.333333333333333;31;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;1275;61;84;oui;cr3;1135;1238;norm.;norm.;g. nord-ouest;tour.;tour.;g. sud-ouest;vie de saint en vers octosyllabiques;mrgri;VRAI;1135
+mule;2;0;2;1;236;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;85 (Nievre, Allier);1300;85;85;oui;ms1;1200;1310;bourg.;bourg.;g. sud-est;bourg. sept.;bourg.;g. sud-est;conte en octosyllabes.;mule;VRAI;1200
+myst;2;13;15;0.133333333333333;14;nil;Angleterre;Angleterre;29;NA;29;29;nil;1237;86;57;oui;ms2;1175;1238;traits occ. et agn.;NA;NA;tour.;tour.;g. sud-ouest;mystere en prose latine et en vers français octo- et decasyllabiques;#N/A;FAUX;1175
+narcA;14;5;19;0.736842105263158;17;nil;nil;Normandie;NA;NA;10;10;nil;nil;nil;nil;oui;ms;1165;1287;norm.;norm.;g. nord-ouest;frc.;frc.;g. francien;poeme antiquisant;#N/A;FAUX;1165
+narcB;14;5;19;0.736842105263158;26;nil;nil;Normandie;NA;NA;10;10;nil;nil;nil;nil;oui;ms;1165;1290;norm.;norm.;g. nord-ouest;frc.;frc.;g. francien;poeme antiquisant;#N/A;FAUX;1165
+narcC;15;5;20;0.75;28;nil;nil;Normandie;NA;NA;10;10;nil;nil;nil;nil;oui;cr1;1165;1290;norm.;norm.;g. nord-ouest;pic.;pic.;g. nord;poeme antiquisant;#N/A;FAUX;1165
+narcD;9;2;11;0.818181818181818;32;nil;nil;Normandie;NA;NA;10;10;nil;nil;nil;nil;oui;ms;1165;1300;norm.;norm.;g. nord-ouest;norm.;norm.;g. nord-ouest;nil;#N/A;FAUX;1165
+narcE;2;0;2;1;18;nil;nil;Normandie;NA;NA;10;10;nil;nil;nil;nil;oui;ms;1165;1267;norm.;norm.;g. nord-ouest;art.;art.;g. Nord;nil;#N/A;FAUX;1165
+ndchar;24;4;28;0.857142857142857;13;Orleanais;Orleanais;Orleanais;5;5;5;5;89 (Orleanais);1250;11;89;oui;ms2;1257;1350;Chartres;eure-et-Loir;g. ouest;Chartres;eure-et-Loir;g. est;recit de miracles en octosyllabes;ndchar;VRAI;1257
+neele;1;0;1;1;75;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;80 (Pas-de-Calais sud-est);1288;29;80;oui;ms;1289;1289;pic.;pic.;g. nord;pic.;pic.;g. nord;table des matieres rimee;neele;VRAI;1289
+nic;25;3;28;0.892857142857143;76;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;94 (Somme, Pas-de-Calais);1310;26;94;oui;ms1;1197;1295;art.;art.;g. nord;Arras;Pas-de-Calais;g. nord;nil;nic;VRAI;1197
+nicb;1;16;17;0.0588235294117647;140;Marne;Marne;Marne;18;18;18;18;73 (Marne ouest);1280;52;73;non;ms1;1225;1288;nil;NA;NA;flandr.;flandr.;g. nord-est;traduction de l'Evangile;nicb;VRAI;1225
+nicoa;0;12;12;0;286;nil;Angleterre;Angleterre;29;NA;29;29;nil;1250;86;69;non;ms1;1225;1290;nil;NA;NA;agn.;agn.;agn.;traduction de l'evangile;#N/A;FAUX;1225
+nima1;7;7;14;0.5;203;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;76 (Langres et env.);nil;61;76;oui;ms1;1150;1263;nil;NA;NA;frc.;frc.;g. francien;epopee du cycle de Guillaume d'Orange;nima1;VRAI;1150
+nima2;6;9;15;0.4;237;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;73 (Nievre, Allier);nil;85;73;oui;ms1;1150;1263;nil;NA;NA;frc.;frc.;g. francien;epopee du cycle de Guillaume d'Orange;nima2;VRAI;1150
+nima3;4;4;8;0.5;238;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;76 (Nievre, Allier);1325;85;76;oui;ms1;1150;1325;nil;NA;NA;lorr.;lorr.;g. nord-est;epopee du cycle de Guillaume d'Orange;nima3;VRAI;1150
+nima4;13;3;16;0.8125;239;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;79 (Nievre, Allier);1280;85;79;oui;ms1;1150;1283;nil;NA;NA;frc.;frc.;g. francien;epopee du cycle de Guillaume d'Orange;nima4;VRAI;1150
+nimb1;13;7;20;0.65;102;Aisne;Aisne;Aisne;13;13;13;13;85 (Aisne);1310;37;85;oui;ms1;1150;1335;nil;NA;NA;Paris;Paris;g. francien;epopee du cycle de Guillaume d'Orange;nimb1;VRAI;1150
+nimb2;10;5;15;0.666666666666667;38;Normandie;Normandie;Normandie;10;10;10;10;91 (Eure);1350;24;91;oui;ms1;1150;1335;nil;NA;NA;Paris;Paris;g. francien;epopee du cycle de Guillaume d'Orange;nimb2;VRAI;1150
+nimc;16;7;23;0.695652173913043;77;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;70 (Pas-de-Calais centre + nord);1295;31;70;oui;ms1;1150;1295;nil;NA;NA;art.;art.;g. Nord;epopee du cycle de Guillaume d'Orange;nimc;VRAI;1150
+nimd;13;3;16;0.8125;213;Meuse;Meuse;Meuse;23;23;23;23;78 (Verdun et env.);1275;67;78;oui;ms1;1150;1275;nil;NA;NA;lorr. merid.;lorr.;g. nord-est;nil;nimd;VRAI;1150
+nouvel;6;7;13;0.461538461538462;78;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;94 (Pas-de-Calais sud-est);1275;29;94;oui;ms;1290;1295;Lille;nord;g. nord;Arras;Pas-de-Calais;g. nord;roman en vers;nouvel;VRAI;1290
+oct;1;1;2;0.5;94;Oise;Oise;Oise;12;12;12;12;74 (Oise);1300;32;74;oui;ms2;1275;1290;pic.;pic.;g. nord;pic.;pic.;g. nord;roman antique en octosyllabes;oct;VRAI;1275
+ombre;15;5;20;0.75;66;nil;Marne;Marne;18;NA;18;18;nil;nil;53;62;oui;cr1;1221;1288;pic.;pic.;g. nord;frc.;frc.;g. francien;conte courtois;#N/A;FAUX;1221
+or;3;1;4;0.75;79;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;83 (Pas-de-Calais sud-est);1290;29;83;oui;cr1;1200;1370;pic.;pic.;g. nord;pic.;pic.;g. nord;vie de Saint;or;VRAI;1200
+orso;11;21;32;0.34375;141;Marne;Marne;Marne;18;18;18;18;82 (Marne);1290;51;82;oui;ms;1225;1290;pic. merid.;pic.;g. nord;lorr.;lorr.;g. nord-est;chanson de geste en alexandrins;orso;VRAI;1225
+pap;3;12;15;0.2;109;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1250;5;61;oui;ms1;1175;1238;nord;nord;g. nord;tour.;tour.;g. sud-ouest;vie de saint;#N/A;FAUX;1175
+papgreg2;0;32;32;0;127;Wallonie;Wallonie;Wallonie;16;16;16;16;77 (Wallonie);1210;45;77;non;ms3;1180;1210;lieg.;lieg.;g. nord-est;Est;est;g. est;recit pieux sous forme de dialogues.;papgreg2;VRAI;1180
+pen;4;26;30;0.133333333333333;80;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;74 (Pas-de-Calais sud-est);1290;29;74;non;ms2;1275;1283;nil;NA;NA;pic.;pic.;g. nord;recit pieux;pen;VRAI;1275
+pera;17;6;23;0.739130434782609;182;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1180;1235;champ. merid.;champ.;g. nord-est;champ.;champ.;g. nord-est;roman arthurien;pera;VRAI;1180
+perb;11;17;28;0.392857142857143;173;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1180;1310;champ. merid.;champ.;g. nord-est;bourg. sept.;bourg.;g. sud-est;roman arthurien;#N/A;FAUX;1180
+perc;8;2;10;0.8;61;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;1290;61;69;oui;ms1;1250;1275;pic.;pic.;g. nord;pic. sept.;pic.;g. nord;roman arthurien;#N/A;FAUX;1250
+percevalb;41;81;122;0.336065573770492;205;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;90 (Langres et env.);1350;61;90;oui;ms1;1180;1310;champ. merid.;champ.;g. nord-est;bourg. sept.;bourg.;g. sud-est;roman arthurien;percevalb;VRAI;1180
+perf;12;11;23;0.521739130434783;174;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1300;5;56;oui;ms1;1180;1250;champ. merid.;champ.;g. nord-est;Est;est;g. est;roman arthurien;#N/A;FAUX;1180
+perh;1;21;22;0.0454545454545455;175;nil;Angleterre;Angleterre;29;NA;29;29;nil;1375;86;58;oui;ms1;1180;1350;champ. merid.;champ.;g. nord-est;agn.;agn.;agn.;roman arthurien;#N/A;FAUX;1180
+perl;15;14;29;0.517241379310345;184;Aube;Aube;Aube;21;21;21;21;81 (Aube);1275;59;81;oui;ms1;1180;1275;champ. merid.;champ.;g. nord-est;champ. merid.;champ.;g. nord-est;roman arthurien;perl;VRAI;1180
+perm;8;19;27;0.296296296296296;240;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;78 (Nievre, Allier);1290;85;78;oui;ms1;1180;1275;champ. merid.;champ.;g. nord-est;bourg.;bourg.;g. sud-est;roman arthurien;perm;VRAI;1180
+perp;12;13;25;0.48;115;Hainaut;Hainaut;Hainaut;15;15;15;15;77 (Tournai et env.);1250;44;77;oui;ms1;1180;1250;champ. merid.;champ.;g. nord-est;hain.;hain.;g. nord;roman arthurien;perp;VRAI;1180
+perpraag;1;0;1;1;176;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1180;1300;Troyes;aube;g. est;Nord-Est;Nord-Est;g. nord-est;roman arthurien;#N/A;FAUX;1180
+perq;9;15;24;0.375;206;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;92 (Langres et env.);1275;61;92;oui;ms1;1180;1275;champ. merid.;champ.;g. nord-est;champ. merid.;champ.;g. nord-est;roman arthurien;perq;VRAI;1180
+perr;6;13;19;0.31578947368421;177;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1180;1237;champ. merid.;champ.;g. nord-est;pic.;pic.;g. nord;nil;#N/A;FAUX;1180
+pers;13;15;28;0.464285714285714;39;Normandie;Normandie;Normandie;10;10;10;10;89 (Eure);1350;24;89;oui;ms1;1180;1310;champ. merid.;champ.;g. nord-est;traits norm.;NA;NA;nil;pers;VRAI;1180
+pert;14;6;20;0.7;178;nil;Oise;Oise;12;NA;12;12;nil;1210;32;68;oui;ms1;1180;1275;champ. merid.;champ.;g. nord-est;pic. sept.;pic.;g. nord;roman arthurien;#N/A;FAUX;1180
+peru;11;14;25;0.44;154;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;87 (Val d'Oise);1350;55;87;oui;ms1;1180;1330;champ. merid.;champ.;g. nord-est;Paris;Paris;g. francien;roman arthurien;peru;VRAI;1180
+plainte;0;9;9;0;256;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;cr;1312;1325;agn.;agn.;agn.;agn.;agn.;agn.;complainte;#N/A;FAUX;1312
+poit;4;11;15;0.266666666666667;10;Vendee, Deux-Sevres;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;2;2;2;78 (Vendee);1250;4;78;non;ms1;1217;1238;saint.;saint.;g. sud-ouest;saint.;saint.;g. sud-ouest;chronique en prose (relatant les evenements de l'epoque carolingienne);poit;VRAI;1217
+pon1;3;1;4;0.75;81;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;86 (Pas-de-Calais centre + nord);1290;31;86;non;ms2;1213;1290;Nord;nord;g. nord;Nord;Nord;g. nord;conte en prose;pon1;VRAI;1213
+pon2;1;2;3;0.333333333333333;82;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;89 (Somme, Pas-de-Calais);1290;26;89;non;ms2;1238;1290;Nord;nord;g. nord;Nord;Nord;g. nord;nil;pon2;VRAI;1238
+pritheo;5;2;7;0.714285714285714;83;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;90 (Pas-de-Calais sud-est);nil;29;90;oui;cr2;1290;1300;pic.;pic.;g. nord;pic.;pic.;g. nord;nil;pritheo;VRAI;1290
+psautier;0;111;111;0;258;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;non;cr2;1125;1150;agn.;agn.;agn.;Canterbury;agn.;agn.;psaume;#N/A;FAUX;1125
+pseuturp;12;9;21;0.571428571428571;221;Franche-Comte;Franche-Comte;Franche-Comte;26;26;26;26;98 (Haute-Saone);1250;79;98;non;ms;1290;1290;bourg.;bourg.;g. sud-est;bourg.;bourg.;g. sud-est;chronique historique;pseuturp;VRAI;1290
+queste;6;18;24;0.25;241;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;84 (Nievre, Allier);1250;85;84;non;cr3;1228;1250;nil;NA;NA;nil;nil;NA;roman arthurien en prose;queste;VRAI;1228
+raou;14;12;26;0.538461538461538;131;Ardennes;Ardennes;Ardennes;17;17;17;17;78 (Ardennes sud);1250;50;78;oui;cr1;1190;1275;Nord-Est;Nord-Est;g. nord-est;Nord;Nord;g. nord;chanson de geste à laisses rimees;raou;VRAI;1190
+reis;1;70;71;0.0140845070422535;259;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;non;ms;1175;1190;agn.;agn.;agn.;agn.;agn.;agn.;texte biblique;#N/A;FAUX;1175
+remi;24;0;24;1;132;Ardennes;Ardennes;Ardennes;17;17;17;17;86 (Ardennes sud);1300;50;86;oui;ms2;1283;1350;champ. sept.;champ.;g. nord-est;Ardennes;champ.;g. nord-est;vie de Saint;remi;VRAI;1283
+ren2;17;4;21;0.80952380952381;185;Aube;Aube;Aube;21;21;21;21;86 (Aube);1290;59;86;oui;ms;1188;1213;nil;NA;NA;Est;est;g. est;nil;ren2;VRAI;1188
+robert;1;0;1;1;84;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;75 (Pas-de-Calais centre + nord);1275;31;75;oui;cr;1190;1275;traits norm. ?;NA;NA;pic.;pic.;g. nord;roman historique en ocuplets d'octosyllabes;robert;VRAI;1190
+robin;29;5;34;0.852941176470588;85;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;91 (Somme centre + sud);1275;27;91;oui;ms;1285;1295;art.;art.;g. nord;Arras;Pas-de-Calais;g. nord;jeu;robin;VRAI;1285
+rolandox;0;27;27;0;260;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;cr1;1100;1137;Nord-Ouest;Nord-Ouest;g. nord-ouest;agn.;agn.;agn.;nil;#N/A;FAUX;1100
+roma;4;7;11;0.363636363636364;62;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;1250;61;64;oui;ms;1188;1250;nil;NA;NA;pic.;pic.;g. nord;nil;#N/A;FAUX;1188
+romb;5;7;12;0.416666666666667;207;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;89 (Langres et env.);1300;61;89;oui;ms;1188;1275;nil;NA;NA;Est;est;g. est;nil;romb;VRAI;1188
+rombriv;7;0;7;1;63;nil;nil;Somme, Pas-de-Calais;NA;NA;11;11;nil;nil;nil;nil;oui;ms;1188;1290;nil;NA;NA;pic.;pic.;g. nord;nil;#N/A;FAUX;1188
+rombriva;4;0;4;1;290;nil;nil;NA;NA;NA;NA;NA;nil;nil;nil;nil;oui;ms;1188;nil;nil;NA;NA;nil;nil;NA;nil;#N/A;FAUX;1188
+romc;3;10;13;0.230769230769231;242;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;75 (Nievre Allier romc);1260;85;75;oui;ms1;1188;1300;nil;NA;NA;nil;nil;NA;nil;romc;VRAI;1188
+romd;5;7;12;0.416666666666667;155;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;84 (Paris);1339;56;84;oui;ms1;1188;1339;nil;NA;NA;frc.;frc.;g. francien;nil;romd;VRAI;1188
+rome;4;8;12;0.333333333333333;156;Region parisienne;nil;Region parisienne;NA;19;19;19;78 (Seine-et-Marne);1400;nil;78;oui;ms1;1188;1400;nil;NA;NA;nil;nil;NA;nil;rome;VRAI;1188
+romh;8;5;13;0.615384615384615;133;Ardennes;Ardennes;Ardennes;17;17;17;17;73 (Ardennes sud);1290;50;73;oui;ms1;1188;1290;nil;NA;NA;pic.;pic.;g. nord;nil;romh;VRAI;1188
+romi;3;6;9;0.333333333333333;291;nil;nil;NA;NA;NA;NA;NA;nil;nil;nil;nil;oui;ms1;1188;nil;nil;NA;NA;nil;nil;NA;nil;#N/A;FAUX;1188
+romk;4;7;11;0.363636363636364;112;nil;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;NA;11;11;nil;1300;29;58;oui;ms1;1188;1283;nil;NA;NA;hain.;hain.;g. nord;nil;#N/A;FAUX;1188
+roml;5;3;8;0.625;208;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;91 (Langres et env.);1350;61;91;oui;ms1;1188;1350;nil;NA;NA;nil;nil;NA;nil;roml;VRAI;1188
+romm;5;9;14;0.357142857142857;243;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;77 (Nievre, Allier);1350;85;77;oui;ms1;1188;1310;nil;NA;NA;nil;nil;NA;nil;romm;VRAI;1188
+romo;5;5;10;0.5;186;Aube;Aube;Aube;21;21;21;21;89;1310;59;89;oui;ms1;1188;nil;nil;NA;NA;nil;nil;NA;nil;romo;VRAI;1188
+rose;74;4;78;0.948717948717949;244;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;84 (Nievre, Allier);1290;85;84;oui;cr2;1230;1285;traits orl.;NA;NA;orl.;orl.;g. sud;poeme allegorique en couplets octosyllabique;rose;VRAI;1230
+rou3a;1;0;1;1;279;Angleterre;Angleterre;Angleterre;29;29;29;29;70 (Angleterre);1210;86;70;oui;cr2;1167;1210;norm.;norm.;g. nord-ouest;agn.;agn.;agn.;chronique historique;rou3a;VRAI;1167
+sage;0;46;46;0;157;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;90 (Seine-et-Marne);nil;57;90;non;ms1;1250;1290;Traits de l'Ouest.;NA;NA;frc.;frc.;g. francien;nil;sage;VRAI;1250
+sapient;0;1;1;0;128;Wallonie;Wallonie;Wallonie;16;16;16;16;82 (Wallonie);1210;45;82;non;ms2;1190;1210;Liege;lieg.;g. nord-est;Est;est;g. est;recit pieux dialogue;sapient;VRAI;1190
+sept;8;7;15;0.533333333333333;86;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;76 (Pas-de-Calais sud-est);1284;29;76;oui;ms2;1183;1285;Sud-Ouest;Sud-Ouest;g. sud-ouest;pic.;pic.;g. nord;roman historique en octosyllabes;sept;VRAI;1183
+sergbH;1;14;15;0.0666666666666667;261;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;cr1;1190;1250;agn.;agn.;agn.;agn.;agn.;agn.;sermon;#N/A;FAUX;1190
+sergbO;0;2;2;0;262;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms;1190;1277;agn.;agn.;agn.;agn.;agn.;agn.;sermon;#N/A;FAUX;1190
+songe;10;4;14;0.714285714285714;164;Yonne;Yonne;Yonne;20;20;20;20;76 (Yonne);nil;58;76;oui;cr3;1214;1288;Beauvais;oise;g. nord;nil;nil;NA;nil;songe;VRAI;1214
+stsilv;3;0;3;1;15;Indre-et-Loire;Indre-et-Loire;Indre-et-Loire;6;6;6;6;71 (Loches et env.);1210;16;71;oui;ms2;1200;1210;Ouest;Ouest;g. ouest;tour.;tour.;g. sud-ouest;vie de Saint;stsilv;VRAI;1200
+sully2;3;10;13;0.230769230769231;1;Charente-Maritime;Charente-Maritime;Charente-Maritime;1;1;1;1;95 (La Rochelle et env.);1250;2;95;non;ms2;1250;1250;La Rochelle;char.;g. sud-ouest;poit.;poit.;g. sud-ouest;sermons;sully2;VRAI;1250
+teo2;0;10;10;0;263;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;52;oui;ms2;1150;1210;agn.;agn.;agn.;agn.;agn.;agn.;miracles en octosylabes.;#N/A;FAUX;1150
+thA;1;0;1;1;5;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1190;5;69;oui;ms;1160;1200;poit.;poit.;g. sud-ouest;poit.;poit.;g. sud-ouest;roman antique;#N/A;FAUX;1160
+the;21;0;21;1;158;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;85 (Seine-et-Marne);1250;57;85;oui;nil;1261;1288;champ. merid.;champ.;g. nord-est;frc.;frc.;g. francien;nil;the;VRAI;1261
+thebe;3;2;5;0.6;159;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;81 (Seine-et-Marne);1250;57;81;oui;ms2;1250;1250;poit.;poit.;g. sud-ouest;frc.;frc.;g. francien;roman antique;thebe;VRAI;1250
+thebefrag;2;0;2;1;11;Vendee, Deux-Sevres;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;2;2;2;70 (Deux-Sevres);1200;5;70;oui;cr2;1160;1200;poit.;poit.;g. sud-ouest;poit.;poit.;g. sud-ouest;roman antique;thebefrag;VRAI;1160
+thibo;1;2;3;0.333333333333333;209;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;87 (Langres et env.);1290;61;87;oui;ms2;1290;1290;bourg.;bourg.;g. sud-est;bourg.;bourg.;g. sud-est;vie de Saint;thibo;VRAI;1290
+trib;13;10;23;0.565217391304348;292;nil;Nievre, Allier;Nievre, Allier;28;NA;28;28;nil;1275;85;69;oui;ms1;1188;1275;Ouest;Ouest;g. ouest;nil;nil;NA;roman breton;#N/A;FAUX;1188
+troi;0;15;15;0;142;Marne;Marne;Marne;18;18;18;18;81 (Marne ouest);1287;52;81;non;ms1;1288;1288;champ.;champ.;g. nord-est;Marne;Marne;g. nord-est;version adaptee de Benoit de Sainte Marne;troi;VRAI;1288
+troifr;2;0;2;1;6;nil;Angleterre;Angleterre;29;NA;29;29;nil;1190;86;58;oui;cr1;1170;1190;poit.;poit.;g. sud-ouest;Angleterre;agn.;agn.;roman epique;#N/A;FAUX;1170
+turp;1;1;2;0.5;8;nil;Vendee, Deux-Sevres;Vendee, Deux-Sevres;2;NA;2;2;nil;1250;1;66;non;ms;1217;1275;saint.;saint.;g. sud-ouest;poit.;poit.;g. sud-ouest;chronique historique;#N/A;FAUX;1217
+vache;57;10;67;0.850746268656716;103;Aisne;Aisne;Aisne;13;13;13;13;91 (Aisne);nil;37;91;oui;ms1;1290;1300;champ.;champ.;g. nord-est;Aisne;Aisne;g. Nord;nil;vache;VRAI;1290
+vcou;8;1;9;0.888888888888889;87;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;82 (Pas-de-Calais sud-est);1290;29;82;oui;cr1;1250;1290;pic. orient.;pic.;g. nord;art.;art.;g. Nord;nil;vcou;VRAI;1250
+vergia;22;2;24;0.916666666666667;95;Oise;Oise;Oise;12;12;12;12;71 (Oise);1300;32;71;oui;ms1;1240;1289;norm.;norm.;g. nord-ouest;pic.;pic.;g. nord;conte courtois en octosyllabes;vergia;VRAI;1240
+vergib;22;8;30;0.733333333333333;40;Normandie;Normandie;Normandie;10;10;10;10;83 (Eure);1290;24;83;oui;ms1;1240;1300;norm.;norm.;g. nord-ouest;norm.;norm.;g. nord-ouest;conte courtois en octosyllabes.;vergib;VRAI;1240
+vergic;22;1;23;0.956521739130435;165;Yonne;Yonne;Yonne;20;20;20;20;80 (Yonne);1290;58;80;oui;ms1;1240;1288;norm.;norm.;g. nord-ouest;frc.;frc.;g. francien;conte courtois en octosyllabes;vergic;VRAI;1240
+vergie;17;5;22;0.772727272727273;187;Aube;Aube;Aube;21;21;21;21;82 (Aube);1310;59;82;oui;ms1;1240;1310;norm.;norm.;g. nord-ouest;champ. merid.;champ.;g. nord-est;conte courtois en octosyllabes.;vergie;VRAI;1240
+vergif;24;0;24;1;41;Normandie;Normandie;Normandie;10;10;10;10;81 (Normandie);1310;22;81;oui;ms1;1240;1318;norm.;norm.;g. nord-ouest;pic.;pic.;g. nord;conte courtois en actosyllabes.;vergif;VRAI;1240
+vergig;18;8;26;0.692307692307692;104;Aisne;Aisne;Aisne;13;13;13;13;88 (Aisne);1290;37;88;oui;ms1;1240;1290;norm.;norm.;g. nord-ouest;nil;nil;NA;conte courtois en octosyllabes;vergig;VRAI;1240
+vergih;21;1;22;0.954545454545455;210;Haute-Marne;Haute-Marne;Haute-Marne;22;22;22;22;85 (Chaumont et env.);1350;63;85;oui;ms1;1240;1310;norm.;norm.;g. nord-ouest;nil;nil;NA;conte courtois en octosyllabes;vergih;VRAI;1240
+vergii;17;0;17;1;42;Normandie;Normandie;Normandie;10;10;10;10;85 (Eure);1300;24;85;oui;ms1;1240;1300;norm.;norm.;g. nord-ouest;norm.;norm.;g. nord-ouest;conte courtois en octosyllabes;vergii;VRAI;1240
+vergik;22;0;22;1;105;Aisne;Aisne;Aisne;13;13;13;13;81 (Aisne);1350;37;81;oui;ms1;1240;1350;norm.;norm.;g. nord-ouest;pic.;pic.;g. nord;conte courtois en octosyllabes;vergik;VRAI;1240
+vergil;19;1;20;0.95;160;Region parisienne;Region parisienne;Region parisienne;19;19;19;19;86 (region parisienne);1325;54;86;oui;ms1;1240;1325;norm.;norm.;g. nord-ouest;frc.;frc.;g. francien;conte courtois en octosyllabes;vergil;VRAI;1240
+vilea;0;3;3;0;225;Bourgogne;Bourgogne;Bourgogne;27;27;27;27;76 (Cote-d'Or sud + Saine-et-Loire);1375;84;76;non;cr2;1205;1375;champ.;champ.;g. nord-est;nil;nil;NA;chronique historique;vilea;VRAI;1205
+vilhar;0;5;5;0;106;Aisne;Aisne;Aisne;13;13;13;13;90 (Aisne);1290;37;90;non;ms1;1205;1290;champ.;champ.;g. nord-est;frc.;frc.;g. francien;chronique historique;vilhar;VRAI;1205
+wita;2;1;3;0.666666666666667;88;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;77 (Pas-de-Calais sud-est);1250;29;77;oui;ms3;1238;1285;pic.;pic.;g. nord;pic.;pic.;g. nord;nil;wita;VRAI;1238
+yonecH;0;2;2;0;264;nil;Angleterre;Angleterre;29;NA;29;29;nil;nil;86;nil;oui;ms;1165;1275;agn.;agn.;agn.;agn.;agn.;agn.;lais bretons;#N/A;FAUX;1165
+yonecQ;1;0;1;1;266;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms;1165;1339;agn.;agn.;agn.;frc.;frc.;g. francien;lai breton;#N/A;FAUX;1165
+yonecS;1;0;1;1;267;nil;nil;Angleterre;NA;NA;29;29;nil;nil;nil;nil;oui;ms;1165;1300;agn.;agn.;agn.;frc.;frc.;g. francien;lai breton;#N/A;FAUX;1165
+yva;4;6;10;0.4;179;nil;Haute-Marne;Haute-Marne;22;NA;22;22;nil;1290;63;60;oui;ms1;1177;1283;champ. merid.;champ.;g. nord-est;hain.;hain.;g. nord;roman arthurien en octosyllabes;#N/A;FAUX;1177
+yvf;7;5;12;0.583333333333333;180;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1177;1237;champ. merid.;champ.;g. nord-est;pic.;pic.;g. nord;roman arthurien en octosyllabes;#N/A;FAUX;1177
+yvg;5;4;9;0.555555555555556;188;Aube;Aube;Aube;21;21;21;21;74 (Aube);1250;59;74;oui;ms1;1177;1250;champ. merid.;champ.;g. nord-est;champ.;champ.;g. nord-est;roman arthurien en octosyllabes;yvg;VRAI;1177
+yvh;8;1;9;0.888888888888889;181;nil;nil;Aube;NA;NA;21;21;nil;nil;nil;nil;oui;ms1;1177;1235;champ. merid.;champ.;g. nord-est;champ.;champ.;g. nord-est;roman arthurien en octosyllabes;yvh;VRAI;1177
+yvp;8;6;14;0.571428571428571;89;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;86 (Somme, Pas-de-Calais);1250;26;86;oui;ms;1177;1317;champ. merid.;champ.;g. nord-est;pic.;pic.;g. nord;roman arthurien en octosyllabes;yvp;VRAI;1177
+yvs;4;3;7;0.571428571428571;90;Somme, Pas-de-Calais;Somme, Pas-de-Calais;Somme, Pas-de-Calais;11;11;11;11;79 (Pas-de-Calais centre + nord);1310;31;79;oui;ms1;1177;1300;champ. merid.;champ.;g. nord-est;nil;nil;NA;roman arthurien en octosyllabes;yvs;VRAI;1177
+yvv;3;4;7;0.428571428571429;245;Nievre, Allier;Nievre, Allier;Nievre, Allier;28;28;28;28;74 (Nievre, Allier);1275;85;74;oui;ms1;1177;1290;champ. merid.;champ.;g. nord-est;frc.;frc.;g. francien;roman arthurien en octosyllabes;yvv;VRAI;1177
+yzop;23;14;37;0.621621621621622;222;Franche-Comte;Franche-Comte;Franche-Comte;26;26;26;26;95 (Franche-Comte);1300;77;95;oui;ms;1275;1290;Est;est;g. est;frcomt.;frcomt.;g. sud-est;fables esopiennes;yzop;VRAI;1275

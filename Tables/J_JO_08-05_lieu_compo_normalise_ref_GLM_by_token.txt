@@ -1,0 +1,67 @@
+x
+1 
+2 Call:
+3 glm(formula = type ~ std_date + vers + qualite + lieu_compo_normalise + category, family = binomial("logit"), data = combined_data)
+4 
+5 Coefficients:
+6                                    Estimate Std. Error z value Pr(>|z|)    
+7 (Intercept)                      -1.653e+01  1.694e+00  -9.761  < 2e-16 ***
+8 std_date                          1.117e-02  1.283e-03   8.705  < 2e-16 ***
+9 versoui                           1.297e+00  1.524e-01   8.507  < 2e-16 ***
+10 qualitecr1                        3.209e-01  3.026e-01   1.060 0.289055    
+11 qualitecr2                        9.704e-02  2.936e-01   0.330 0.741045    
+12 qualitecr3                       -2.309e-01  3.381e-01  -0.683 0.494561    
+13 qualitems                         3.445e-01  2.629e-01   1.311 0.189943    
+14 qualitems1                        3.854e-01  2.732e-01   1.411 0.158312    
+15 qualitems1-2                      4.116e+00  1.125e+00   3.657 0.000255 ***
+16 qualitems2                        7.046e-01  3.397e-01   2.074 0.038084 *  
+17 qualitems3                       -1.044e+00  3.452e-01  -3.024 0.002494 ** 
+18 qualitenil                        1.005e+00  4.004e-01   2.510 0.012066 *  
+19 lieu_compo_normaliseagn.         -3.277e+00  3.316e-01  -9.882  < 2e-16 ***
+20 lieu_compo_normaliseaisne         1.564e+01  6.334e+02   0.025 0.980302    
+21 lieu_compo_normaliseart.          9.538e-01  4.151e-01   2.298 0.021561 *  
+22 lieu_compo_normaliseaube          1.411e+01  1.455e+03   0.010 0.992262    
+23 lieu_compo_normalisebourg.       -2.088e-01  4.187e-01  -0.499 0.617926    
+24 lieu_compo_normalisecentre        1.040e-02  1.428e+00   0.007 0.994190    
+25 lieu_compo_normalisechamp.       -1.240e+00  1.593e-01  -7.783 7.09e-15 ***
+26 lieu_compo_normalisechar.        -2.059e+00  7.383e-01  -2.789 0.005293 ** 
+27 lieu_compo_normaliseest          -1.634e+00  3.677e-01  -4.444 8.81e-06 ***
+28 lieu_compo_normaliseeure-et-Loir  9.691e-02  7.449e-01   0.130 0.896492    
+29 lieu_compo_normaliseflandr.      -7.000e-01  4.607e-01  -1.519 0.128650    
+30 lieu_compo_normalisefrc.         -9.057e-01  3.249e-01  -2.788 0.005304 ** 
+31 lieu_compo_normalisefrcomt.       2.300e+00  1.222e+00   1.882 0.059822 .  
+32 lieu_compo_normalisehain.         1.448e+01  3.398e+02   0.043 0.966007    
+33 lieu_compo_normaliselieg.        -1.676e+00  6.947e-01  -2.413 0.015806 *  
+34 lieu_compo_normaliselorr.        -3.218e-01  3.935e-01  -0.818 0.413431    
+35 lieu_compo_normalisemeuse        -3.759e-01  6.591e-01  -0.570 0.568502    
+36 lieu_compo_normalisenord         -1.240e+00  4.060e-01  -3.055 0.002250 ** 
+37 lieu_compo_normalisenord-est     -5.854e-01  7.433e-01  -0.787 0.431006    
+38 lieu_compo_normaliseNord-Est     -1.119e+00  4.535e-01  -2.468 0.013605 *  
+39 lieu_compo_normaliseNord-ouest   -2.017e+00  1.169e+00  -1.725 0.084509 .  
+40 lieu_compo_normaliseNord-Ouest   -1.821e+00  2.439e-01  -7.465 8.32e-14 ***
+41 lieu_compo_normaliseoise          1.944e+00  5.498e-01   3.536 0.000407 ***
+42 lieu_compo_normaliseOise          1.384e+01  8.382e+02   0.017 0.986823    
+43 lieu_compo_normaliseorl.         -8.197e-01  6.263e-01  -1.309 0.190613    
+44 lieu_compo_normaliseouest         6.261e-01  1.068e+00   0.586 0.557780    
+45 lieu_compo_normaliseOuest        -7.959e-01  4.111e-01  -1.936 0.052884 .  
+46 lieu_compo_normalisepic.         -5.200e-01  1.803e-01  -2.884 0.003931 ** 
+47 lieu_compo_normalisepoit.         1.054e+00  5.937e-01   1.775 0.075869 .  
+48 lieu_compo_normalisesaint.       -8.787e-01  5.933e-01  -1.481 0.138547    
+49 lieu_compo_normaliseSud-Est      -5.998e-01  3.819e-01  -1.570 0.116329    
+50 lieu_compo_normaliseSud-Ouest    -8.513e-01  6.768e-01  -1.258 0.208419    
+51 lieu_compo_normalisetour.         3.571e-01  1.082e+00   0.330 0.741458    
+52 lieu_compo_normalisewall.        -4.528e-01  3.588e-01  -1.262 0.207000    
+53 categoryPROadv                    3.127e+00  3.030e-01  10.319  < 2e-16 ***
+54 categoryVERcjg                    2.802e+00  2.890e-01   9.695  < 2e-16 ***
+55 ---
+56 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+57 
+58 (Dispersion parameter for binomial family taken to be 1)
+59 
+60     Null deviance: 4389.2  on 3191  degrees of freedom
+61 Residual deviance: 3218.5  on 3144  degrees of freedom
+62   (645 observations deleted due to missingness)
+63 AIC: 3314.5
+64 
+65 Number of Fisher Scoring iterations: 14
+66 
