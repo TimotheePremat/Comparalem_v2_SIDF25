@@ -2,7 +2,7 @@
 
 Comparalem is an R script intended for the study of binary linguistic variation in big, diachronic corpora.
 
-The first version of Comparalem has been developped by Timothée Premat for his PhD thesis. This is version 2 alpha. It is deposited here in link to the following talk:
+The first version of Comparalem has been developped by Timothée Premat for his PhD thesis. This is version 2 alpha. It is deposited here in relation to the following talk:
 
 > Premat, Timothée (2025). "L'élision de JO dans le NCA". Talk at the congress SIDF 25, Grenoble, 21 May 2025.
 
