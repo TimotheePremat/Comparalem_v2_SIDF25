@@ -14,7 +14,7 @@ Using this script usually goes along the following steps:
 2. Finding the lemmas that are subject to the target variation (this is ```main_pre-processing.r```) (this step is optional)
 3. Treating the data and mapping the variation (this is ```main.r```)
 
-See ```Instructions.md``` for more details.
+See ```Instructions.md``` for more details. For work on a single lemma (such as _jo_ in the quoted talk, skip step 2)
 
 ### Requisites
 
